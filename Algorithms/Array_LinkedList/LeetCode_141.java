@@ -14,7 +14,7 @@ public class LeetCode_141 {
             val = x;
         }
     }
-
+    //设置快慢指针，如果有环，快的会与慢的相遇。
     public boolean hasCycle(ListNode head) {
         ListNode fast = head;
         ListNode slow = head;

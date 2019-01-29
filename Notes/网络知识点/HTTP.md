@@ -14,7 +14,7 @@
 
 ### HTTP 状态码：
 
-![1547084015045](C:\Users\xuanyupan\AppData\Roaming\Typora\typora-user-images\1547084015045.png)
+- 具体看图片，上传在md中出现了问题
 
 
 

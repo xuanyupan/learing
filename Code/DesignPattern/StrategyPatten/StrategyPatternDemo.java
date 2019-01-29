@@ -3,7 +3,7 @@ package DesignPattern.StrategyPatten;
 /**
  * @Date: 2019/1/29 14:44
  * @Author: xuanyupan
- * @Desc: TODO
+ * @Desc: 策略模式
  */
 public class StrategyPatternDemo {
     public static void main(String[] args){

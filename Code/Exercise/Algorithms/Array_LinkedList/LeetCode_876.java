@@ -1,4 +1,4 @@
-package Algorithms.Array_LinkedList;
+package Exercise.Algorithms.Array_LinkedList;
 
 /**
  * @Author : xuanyupan

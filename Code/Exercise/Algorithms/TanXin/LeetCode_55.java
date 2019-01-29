@@ -1,4 +1,4 @@
-package Algorithms.TanXin;
+package Exercise.Algorithms.TanXin;
 
 /**
  * @Author : xuanyupan

@@ -1,4 +1,4 @@
-package DesignPattern.Singleton;
+package DesignPattern.SingletonPattern;
 
 /**
  * @Date: 2019/1/29 9:58
